@@ -1,6 +1,5 @@
 # NLP
 
-![NLP](img/Figure1.tif)
 
 <img src="img/Figure1.tif" width="600">
 

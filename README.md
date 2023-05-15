@@ -23,13 +23,5 @@ For clustering of cell lines, the gene expression profiles for 915 cell lines we
    - PathCNN_GradCAM_modeling.py: to generate a model for GradCAM (PathCNN_model.h5)
    - PathCNN_GradCAM.py: to generate GradCAM images and a resultant file (pathcnn_gradcam.csv)
 
-3. Multi-omics data
-   - GBM multi-omics data including mRNA expression, CNV, and DNA methylation were downloaded from the CBioPortal database.
-   - Pathway information was downloaded from the KEGG database.
-   - PCA was performed for each pathway in individual omics types.
-   
-   Five PCs in each omics type are in the following files:
-   - PCA_EXP.xlsx, PCA_CNV.xlsx, PCA_MT.xlsx
-   
-   Clinival variables are in the following file:
-   - Clinical.xlsx
+3. Data
+   All data were made available to participants by the CAMDA challenge organizers. Requests to access data should be directed to CAMDA Challenge: http://camda.info/.

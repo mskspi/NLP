@@ -18,10 +18,8 @@ For clustering of cell lines, the gene expression profiles for 915 cell lines we
 <br />
 1. Model Building  
    - PathCNN.py  
-
 2. GradCAM  
    - PathCNN_GradCAM_modeling.py: to generate a model for GradCAM (PathCNN_model.h5)
    - PathCNN_GradCAM.py: to generate GradCAM images and a resultant file (pathcnn_gradcam.csv)
-
 3. Data
-   All data were made available to participants by the CAMDA challenge organizers. Requests to access data should be directed to CAMDA Challenge: http://camda.info/.
+   - All data were made available to participants by the CAMDA challenge organizers. Requests to access data should be directed to CAMDA Challenge: http://camda.info/.

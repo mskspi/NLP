@@ -21,6 +21,6 @@
 2. External validaiton data
    * Requests to access data should be directed to CAMDA Challenge: http://camda.info/.
 3. Code  
-   * CAMDA_word_frequency.ipynb: To generate frequecy and TSNE figures
+   * CAMDA_word_frequency.ipynb: To generate word frequecy and TSNE figures
    * CAMDA_word2vec+TFIDF.ipynb: Modeling and test using DILIPositive.tsv and DILINegative.tsv
    

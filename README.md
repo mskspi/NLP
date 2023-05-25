@@ -15,12 +15,12 @@
 <img src="img/Figure4.png" width="600">
 
 
-1. Model Building  
-   - PathCNN.py  
-   -
-2. GradCAM  
-   - PathCNN_GradCAM_modeling.py: to generate a model for GradCAM (PathCNN_model.h5)
-   - PathCNN_GradCAM.py: to generate GradCAM images and a resultant file (pathcnn_gradcam.csv)
+1. Data for modeling
+   * DILINegative.tsv  
+   * DILIPositive.tsv
+2. External validaiton data
+   * Requests to access data should be directed to CAMDA Challenge: http://camda.info/.
+3. Code  
+   * CAMDA_word_frequency.ipynb: to generate a model for GradCAM (PathCNN_model.h5)
+   * CAMDA_word2vec+TFIDF.ipynb: to generate GradCAM images and a resultant file (pathcnn_gradcam.csv)
    
-3. Data
-   - All data were made available to participants by the CAMDA challenge organizers. Requests to access data should be directed to CAMDA Challenge: http://camda.info/.

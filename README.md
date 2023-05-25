@@ -2,7 +2,7 @@
 
 **Challenge:** The Critical Assessment of Massive Data Analysis (CAMDA) 2022 in collaboration with the Intelligent Systems for Molecular Biology (ISMB) hosted the Literature AI for Drug Induced Liver Injury (DILI) challenge.  
 
-A pipeline of data analysis using natural language processing in conjunction with machine learning methods
+## A pipeline of data analysis using natural language processing in conjunction with machine learning methods
 <img src="img/Figure1.png" width="600">
 
 <br />

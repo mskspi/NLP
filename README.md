@@ -5,20 +5,16 @@
 ## A pipeline of data analysis using natural language processing in conjunction with machine learning methods
 <img src="img/Figure1.png" width="600">
 
-<br />
-<br />
+## Internal and external validation strategy
 <img src="img/Figure2.png" width="600">
-Figure 2. Internal and external validation strategy. 
-<br />
-<br />
+
+## The top 10 most common words in (A) DILI-related and (B) unrelated literature
 <img src="img/Figure3.png" width="600">
-Figure 3. The top 10 most common words in (A) DILI-related and (B) unrelated literature.
-<br />
-<br />
+
+### The t-SNE visualization of the TF-IDF vectors obtained using (A) the title and abstract and (B) only the title of each publication
 <img src="img/Figure4.png" width="600">
-Figure 4. The t-SNE visualization of the TF-IDF vectors obtained using (A) the title and abstract and (B) only the title of each publication.
-<br />
-<br />
+
+
 1. Model Building  
    - PathCNN.py  
    -

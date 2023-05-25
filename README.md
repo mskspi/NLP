@@ -16,11 +16,11 @@
 
 
 1. Data for modeling
-   * DILINegative.tsv  
-   * DILIPositive.tsv
+   * DILIPositive.tsv: DILI-related literature (title + abstract)
+   * DILINegative.tsv: DILI-unrelated literature (title + abstract)
 2. External validaiton data
    * Requests to access data should be directed to CAMDA Challenge: http://camda.info/.
 3. Code  
-   * CAMDA_word_frequency.ipynb: to generate a model for GradCAM (PathCNN_model.h5)
-   * CAMDA_word2vec+TFIDF.ipynb: to generate GradCAM images and a resultant file (pathcnn_gradcam.csv)
+   * CAMDA_word_frequency.ipynb: To generate frequecy and TSNE figures
+   * CAMDA_word2vec+TFIDF.ipynb: Modeling and test using DILIPositive.tsv and DILINegative.tsv
    
